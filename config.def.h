@@ -105,25 +105,25 @@ float alpha = 0.9;
  /* Terminal colors (16 first used in escape sequence) */
  static const char *colorname[] = {
   /* 8 normal colors */
-	"#3b4252", /* black   */
-	"#bf616a", /* red     */
-	"#a3be8c", /* green   */
-	"#ebcb8b", /* yellow  */
-	"#81a1c1", /* blue    */
-	"#b48ead", /* magenta */
-	"#88c0d0", /* cyan    */
-	"#e5e9f0", /* white   */
+	"#282c34", /* black   */
+	"#be5046", /* red     */
+	"#98c379", /* green   */
+	"#d19a66", /* yellow  */
+	"#61afef", /* blue    */
+	"#c678dd", /* magenta */
+	"#56b6c2", /* cyan    */
+	"#abb2bf", /* white   */
   /* 8 bright colors */
-	"#4c566a", /* black   */
-	"#bf616a", /* red     */
-	"#a3be8c", /* green   */
-	"#ebcb8b", /* yellow  */
-	"#81a1c1", /* blue    */
-	"#b48ead", /* magenta */
-	"#8fbcbb", /* cyan    */
-	"#eceff4", /* white   */
+	"#4b5263", /* black   */
+	"#e06c75", /* red     */
+	"#98c379", /* green   */
+	"#e5c07b", /* yellow  */
+	"#61afef", /* blue    */
+	"#c678dd", /* magenta */
+	"#56b6c2", /* cyan    */
+	"#abb2bf", /* white   */
     /* special colors */
-  [256] = "#282a36", /* background */
+  [256] = "#282c34", /* background */
   [257] = "#f8f8f2", /* foreground */
 };
 
